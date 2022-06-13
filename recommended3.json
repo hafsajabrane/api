@@ -3,18 +3,18 @@
     "offset":0,
     "products":[
         {"id":6,
-            "name":"beigner à la crème",
-            "description":"Le hamburger a pour origine le steak de Hambourg, spécialité culinaire notamment servie dans du pain brioché comme plat roboratif des ouvriers dans les cantines allemandes. Ce steak de bœuf haché est le principal plat servi à bord des bateaux de la HAPAG, la ligne maritime qui relie Hambourg à New York.",
+            "name":"beignet à la crème",
+            "description":"Profitez de ces saveurs à tout moment de la journée.",
             "price":35,
             "stars":4,
             "img":"Desktop/images/food8.jpg",
-            "location":"Morocco, Casablanca",
+            "location":"Morocco, Tanger",
     
             "type_id":3},
     
             {"id":7,
                 "name":"fried green lentils taco",
-                "description":"This fried green lentils taco is slightly fizzy with a crispy texture. It is faintly like pigeon peas with stevia and has an overwhelming amount of coriander-blair. It smells like a meadow with a great deal of mushrooms. It is peculiarly fine. You can really feel how high in potassium and how paleo-friendly it is.",
+                "description":"Ce fried green lentils taco est légèrement pétillant avec une texture croustillante.",
                 "price":70,
                 "stars":4,
                 "img":"Desktop/images/food15.jpg",
@@ -24,7 +24,7 @@
     
                   {"id":8,
                 "name":"breaded Turkish figs dumpling ",
-                "description":"This breaded Turkish figs dumpling is relatively dense with a silky texture. It has an undertone of red onion with chili pepper and has mugwort. It smells putrid with a hint of cardoon. It is slightly minerally. You can really feel how plant-based and how 0g of added sugar it is.",
+                "description":"breaded Turkish figs dumpling est placé dans une assiette de taille moyenne",
                 "price":12,
                 "stars":4,
                 "img":"Desktop/images/food16.jpg",
@@ -34,7 +34,7 @@
     
                   {"id":9,
                 "name":"whipped mung beans wrap",
-                "description":"This whipped mung beans wrap is completely intoxicating with a fluffy texture. It is balanced with pinto beans with oregano and has calendula. It smells like plastic with corn bran. It is spicy and aromatic. You can really feel how low fat and how low fat it is.",
+                "description":"Ce whipped mung beans wrap est complètement enivrant avec une texture moelleuse.",
                 "price":20,
                 "stars":4,
                 "img":"Desktop/images/food17.jpg",
@@ -45,7 +45,7 @@
     
                 {"id":10,
                 "name":"caramelized mango pilaf",
-                "description":"This caramelized mango pilaf is completely soft with a crumbly texture. It is redolent with longan with basil and has a great deal of aralia. It smells like pineapple with pigeonpeas. It is hushed and sepulchral. You can really feel how packed with phytonutrients and how sustainably sourced it is.",
+                "description":"Nourriture incroyable à manger avec.",
                 "price":55,
                 "stars":4,
                 "img":"Desktop/images/food18.jpg",
@@ -55,7 +55,7 @@
     
                  {"id":11,
                 "name":"caramelized kale curry",
-                "description":"This caramelized kale curry is quite crusty with a greasy texture. It has a hint of oats with dittany of crete and has onion powder. It smells like medicine with a lot of okra. It is mildly nutty. You can really feel how third party tested and how low fat it is.",
+                "description":"Ce caramelized kale curry est assez croustillant avec une texture grasse.",
                 "price":16,
                 "stars":4,
                 "img":"Desktop/images/food19.jpg",
