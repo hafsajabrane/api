@@ -1,0 +1,65 @@
+{"total_size":6,
+    "type_id":3,
+    "offset":0,
+    "products":[
+        {"id":6,
+            "name":"beignet à la crème",
+            "description":"Profitez de ces saveurs à tout moment de la journée.",
+            "price":35,
+            "stars":4,
+            "img":"Desktop/images/food8.jpg",
+            "location":"Morocco, Tanger",
+    
+            "type_id":3},
+    
+            {"id":7,
+                "name":"fried green lentils taco",
+                "description":"Ce fried green lentils taco est légèrement pétillant avec une texture croustillante.",
+                "price":70,
+                "stars":4,
+                "img":"Desktop/images/food15.jpg",
+                "location":"Morocco, Casablanca",
+                
+                "type_id":2},
+    
+                  {"id":8,
+                "name":"breaded Turkish figs dumpling ",
+                "description":"breaded Turkish figs dumpling est placé dans une assiette de taille moyenne",
+                "price":12,
+                "stars":4,
+                "img":"Desktop/images/food16.jpg",
+                "location":"Morocco, chichaoua",
+                
+                "type_id":3},
+    
+                  {"id":9,
+                "name":"whipped mung beans wrap",
+                "description":"Ce whipped mung beans wrap est complètement enivrant avec une texture moelleuse.",
+                "price":20,
+                "stars":4,
+                "img":"Desktop/images/food17.jpg",
+                "location":"Morocco, chichaoua",
+                
+                "type_id":3},
+    
+    
+                {"id":10,
+                "name":"caramelized mango pilaf",
+                "description":"Nourriture incroyable à manger avec.",
+                "price":55,
+                "stars":4,
+                "img":"Desktop/images/food18.jpg",
+                "location":"Morocco, rabat",
+                
+                "type_id":3},
+    
+                 {"id":11,
+                "name":"caramelized kale curry",
+                "description":"Ce caramelized kale curry est assez croustillant avec une texture grasse.",
+                "price":16,
+                "stars":4,
+                "img":"Desktop/images/food19.jpg",
+                "location":"Morocco, rabat",
+                
+                "type_id":3}
+            ]}
