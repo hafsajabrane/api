@@ -1,0 +1,65 @@
+{"total_size":6,
+    "type_id":3,
+    "offset":0,
+    "products":[
+        {"id":6,
+            "name":"beigner à la crème",
+            "description":"Profitez de ces saveurs à tout moment de la journée.",
+            "price":35,
+            "stars":4,
+            "img":"Desktop/images/food8.jpg",
+            "location":"Morocco, Casablanca",
+    
+            "type_id":3},
+    
+            {"id":7,
+                "name":"fried green lentils taco",
+                "description":"Ce fried green lentils taco est légèrement pétillant avec une texture croustillante. C'est un peu comme des pois cajan avec de la stevia et a une quantité écrasante de coriandre-blair. Ça sent comme un pré avec beaucoup de champignons. C'est particulièrement bien. Vous pouvez vraiment sentir à quel point il est riche en potassium et à quel point il est paléo-amical.",
+                "price":70,
+                "stars":4,
+                "img":"Desktop/images/food15.jpg",
+                "location":"Morocco, Casablanca",
+                
+                "type_id":2},
+    
+                  {"id":8,
+                "name":"breaded Turkish figs dumpling ",
+                "description":"Ce breaded Turkish figs dumpling est relativement dense avec une texture soyeuse. Il a une nuance d'oignon rouge avec du piment et de l'armoise. Ça sent putride avec un soupçon de cardon. Il est légèrement minéral. Vous pouvez vraiment sentir à quel point il est à base de plantes et à quel point il contient 0 g de sucre ajouté.",
+                "price":12,
+                "stars":4,
+                "img":"Desktop/images/food16.jpg",
+                "location":"Morocco, chichaoua",
+                
+                "type_id":3},
+    
+                  {"id":9,
+                "name":"whipped mung beans wrap",
+                "description":"Ce whipped mung beans wrap est complètement enivrant avec une texture moelleuse. Il est équilibré avec des haricots pinto à l'origan et du calendula. Ça sent le plastique avec du son de maïs. Il est épicé et aromatique. Vous pouvez vraiment sentir à quel point il est faible en gras et à quel point il est faible en gras.",
+                "price":20,
+                "stars":4,
+                "img":"Desktop/images/food17.jpg",
+                "location":"Morocco, chichaoua",
+                
+                "type_id":3},
+    
+    
+                {"id":10,
+                "name":"caramelized mango pilaf",
+                "description":"Ce caramelized mango pilaf est complètement doux avec une texture friable. Il sent bon le longane au basilic et a beaucoup d'aralia. Ça sent l'ananas avec des pois cajan. C'est feutré et sépulcral. Vous pouvez vraiment sentir à quel point il est riche en phytonutriments et à quel point il est d'origine durable.",
+                "price":55,
+                "stars":4,
+                "img":"Desktop/images/food18.jpg",
+                "location":"Morocco, rabat",
+                
+                "type_id":3},
+    
+                 {"id":11,
+                "name":"caramelized kale curry",
+                "description":"Ce caramelized kale curry est assez croustillant avec une texture grasse. Il a un soupçon d'avoine avec du dittany de crète et de la poudre d'oignon. Ça sent le médicament avec beaucoup de gombo. C'est légèrement noisette. Vous pouvez vraiment sentir comment un tiers a testé et à quel point il est faible en gras.",
+                "price":16,
+                "stars":4,
+                "img":"Desktop/images/food19.jpg",
+                "location":"Morocco, rabat",
+                
+                "type_id":3}
+            ]}
